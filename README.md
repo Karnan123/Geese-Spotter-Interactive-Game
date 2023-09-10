@@ -1,5 +1,4 @@
 # Geese-Spotter-Interactive-Game
-Inspired by the classic Minesweeper game, the Geese Spotter Game offers an exciting twist by challenging you to spot the geese(s). Enjoy the thrill of Minesweeper while immersing yourself in the world of geese spotting.
 
 Welcome to the Geese Spotter Game repository! This interactive game is designed for the purpose of spotting the elusive geese(s) within a user-specified field. We've employed a range of flexibility to cater to different user preferences, simulating a multitude of experiences. Additionally, the game incorporates randomization for extreme cases to optimize functionality.
 <h2>Features</h2> 
